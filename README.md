@@ -1,2 +1,3 @@
 # BMI Calculator
- Calculadora de IMC em Python
+Simple BMI Calculator written with Python
+
